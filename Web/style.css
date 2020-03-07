@@ -1,0 +1,43 @@
+body {
+    background-color: #b366ff;
+}
+
+#container {
+    font-family: Ubuntu;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;;
+    background-color: #FFF;
+    padding: 70px;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    border-radius: 15px;
+    line-height: 1,7px;
+}
+
+#container #login {
+    color:#b366ff;
+    font-family: Ubuntu;
+    font-size: larger;
+}
+
+.input {
+    padding: 30px;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+}
+
+
+
+
+
+#Centro {
+font-family: Ubuntu;
+padding:10px;
+width: auto;
+
+text-align:center;	
+
+}
